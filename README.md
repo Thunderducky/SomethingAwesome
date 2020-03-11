@@ -3,6 +3,11 @@
 
 This was a homework assignment where we refactored the HTML/CSS of a marketing website.
 
+## Completed
+* Combined CSS Classes - Combined classes a b and c
+* Improved accessibility by adding alt tags
+
+
 ## User Story
 
 ```
